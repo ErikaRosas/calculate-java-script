@@ -1,0 +1,21 @@
+body {
+  background-image: url("./img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #cccccc;
+}
+.content-calculate {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 80vh;
+  justify-content: center;
+  align-items: center;
+}
+.padding-general {
+  padding: 15px;
+}
+.response {
+  margin-top: 20px;
+  width: 20%;
+}
